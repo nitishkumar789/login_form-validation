@@ -1,0 +1,207 @@
+body{
+    background-color: #;
+
+   background-image: url("Artboard 1.jpg");
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+      background-image: linear-gradient(to right, #9c41a7 , #8264bd);
+}
+.container{
+    width: 80%;
+    align-content: center;
+}
+#form3Example1m{
+
+         border-radius: 35px;
+}
+#fpass{
+
+   border-radius: 35px;
+}
+.gender{
+  border-radius: 35px;
+  height: 51px;
+}
+.ball{
+        width: 60%;
+    position: absolute;
+
+}
+body {
+    /* margin: 0; */
+    /* font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; */
+    font-size: .8rem;
+    font-weight: 500;
+    line-height: 1;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+.card {
+  border: 0 solid rgba(0,0,0,.125);
+    border-radius: 2rem;
+}
+.btn-primary {
+   /* color: #fff;*/
+    background-color: #00fdff;
+    /* border-color: #007bff; */
+    border-color: #00fdff;
+}
+
+.form-control-lg {
+    height: calc(1.5em + 1rem + 2px);
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem;
+    line-height: 1.1;
+      }
+       .btn-lg {
+    /* padding: 0.5rem 1rem; */
+    font-size: -24.75rem;
+    line-height: -36.5;
+    border-radius: 4.3rem;
+
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #9151b1;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    box-shadow: 100px;
+    box-shadow: 100px 100px 100px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    em: ;
+    */box-shadow: azure;
+}
+.text-center{
+  margin-right: 20px;
+}
+P.ty{
+  color: #6c757d;
+}
+.form-control {
+    
+    color: #6c757d;
+    
+}
+h3{
+
+  color: #fff;
+  text-align: center;
+}
+.gender {
+    border-radius: 35px;
+    height: 37px;
+
+}
+.a{
+  margin-left: 0px;
+}
+.q{
+  margin-right: 18px;
+
+}
+.f{
+  border-radius: 35px;
+}
+.btn-lg{
+  font-size: 1 ;
+}
+.btn.btn-primary.btn {
+  background: aqua!important ;
+  height: 38px;
+  line-height: 4px;
+}
+body{
+  font-size: .8rem;
+    font-weight: 300;
+    line-height: 1;
+    color: #f8f9fa;
+    text-align: right;
+    background-color: #fff;
+}
+.mt-2{
+    margin-top: 0.5rem!important;
+    text-align: center;
+}
+a {
+    color: #00ffe0;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+body {
+        padding: 10px;
+        background-color: white;
+        color: black;
+        font-size: 10px;
+      }
+      .dark-mode {
+        background-color: black;
+        color: white;
+      }
+      .light-mode {
+        background-color: white;
+        color: black;
+
+        body 
+    padding: 10px;
+    background-color: white;
+    color: black;
+    font-size: 10px;
+    font-weight: 300;
+}
+body {
+    padding: 10px;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+}
+#confirmphone{
+  position: relative;
+  text-align: center;
+}
+.far {
+  margin-top: 40 px;
+}
+.l{
+  color: white;
+}
+
+.text-center{
+  float: left;
+}
+.passeye{
+  position: absolute;
+    margin-left: -25px;
+    margin-top: 11px;
+}
+.input-help {
+    font-size: 10px;
+    position: absolute;
+    right: 70px;
+    left: 11px;
+    color: red;
+}
+#msg {
+    position: absolute;
+    font-size: 11px;
+    color: black;
+}
+input:focus, textarea:focus, select:focus{
+        outline: none!important;
+        border-color: inherit;
+        box-shadow: none!important;
+    }  
+  
+#msg {
+    position: absolute;
+    color: #4ae808;
+}
+
+element.style {
+    color: red;
+}
